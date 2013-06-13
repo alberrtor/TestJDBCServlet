@@ -1,0 +1,9 @@
+@CHARSET "ISO-8859-1";
+
+#menuCtes{
+	position: absolute;
+	width: 30%;
+	text-align: center;
+	background-color: #B1DAE2;
+	margin: 200px 35% 0 35%;
+}

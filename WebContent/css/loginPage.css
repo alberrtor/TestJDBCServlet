@@ -1,0 +1,13 @@
+#loginForm {
+	margin: 25% auto auto;
+	width: 300px;
+	border-style: none;
+}
+
+
+#headertbLogin {
+	border: none;
+	text-align: right;
+	background-color: #29A597;
+	width: 100%;
+}
